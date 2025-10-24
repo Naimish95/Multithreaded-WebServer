@@ -1,7 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/MultiThreadedServer/build
-/MultiThreadedServer/.gradle
-/SingleThreadedServer/build
-/SingleThreadedServer/.gradle
+../MultiThreadedServer/build
+../MultiThreadedServer/.gradle
+../SingleThreadedServer/build
+../SingleThreadedServer/.gradle
