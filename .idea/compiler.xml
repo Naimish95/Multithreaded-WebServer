@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="MultiThreaded" target="17" />
+      <module name="MultiThreaded.main" target="17" />
+      <module name="MultiThreaded.test" target="17" />
+      <module name="MultiThreadedServer" target="17" />
+      <module name="MultiThreadedServer.main" target="17" />
+      <module name="MultiThreadedServer.test" target="17" />
+      <module name="SingleThreadedServer" target="17" />
+      <module name="SingleThreadedServer.main" target="17" />
+      <module name="SingleThreadedServer.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

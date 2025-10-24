@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MultiThreaded-WebServer.iml" filepath="$PROJECT_DIR$/.idea/MultiThreaded-WebServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultiThreaded.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MultiThreaded.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultiThreaded.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MultiThreaded.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadedServer.iml" filepath="$PROJECT_DIR$/MultiThreadedServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultiThreadedServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MultiThreadedServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultiThreadedServer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MultiThreadedServer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleThreadedServer.iml" filepath="$PROJECT_DIR$/SingleThreadedServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingleThreadedServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SingleThreadedServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingleThreadedServer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SingleThreadedServer.test.iml" />
+    </modules>
+  </component>
+</project>
