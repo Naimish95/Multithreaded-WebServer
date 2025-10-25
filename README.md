@@ -51,7 +51,6 @@ _As a backend engineer, I built this project **to strengthen my understanding of
 
 
 ### 🙋‍♂️ Author
-**Rahul Mahato** |
-[LinkedIn](https://www.linkedin.com/in/rahul-mahato-74129b1b5/)
+**Naimish K** |
 
 Backend Engineer | Java | System Design | Multithreading
